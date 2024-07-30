@@ -1,0 +1,73 @@
+body{
+    background-image: url(images/back.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: 100%;
+}
+
+.title-main{
+    font-family: cursive;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+#rest{
+    background-color: #e24646; /* Green background */
+    border: none;              /* Remove borders */
+    color: white;              /* White text */
+    padding: 15px 32px;        /* Some padding */
+    text-align: center;        /* Centered text */
+    text-decoration: none;     /* Remove underline */
+    display: inline-block;     /* Get elements to line up */
+    font-size: 16px;           /* Set a font size */
+    margin: 4px 2px;           /* Add some margin */
+    cursor: pointer;           /* Add a pointer cursor on hover */
+    border-radius: 16px;        /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+#rest:hover {
+    background-color: #ff0000; /* Darker green on hover */
+}
+
+#btnGenerate{
+    background-color: #4CAF50; /* Green background */
+    border: none;              /* Remove borders */
+    color: white;              /* White text */
+    padding: 15px 32px;        /* Some padding */
+    text-align: center;        /* Centered text */
+    text-decoration: none;     /* Remove underline */
+    display: inline-block;     /* Get elements to line up */
+    font-size: 16px;           /* Set a font size */
+    margin: 4px 2px;           /* Add some margin */
+    cursor: pointer;           /* Add a pointer cursor on hover */
+    border-radius: 16px;        /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+#btnGenerate:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+
+
+h3{
+    color: white;
+}
+
+
+/* turn off this score value  */
+.score{
+    color: rgba(0, 0, 0, 0);
+    text-align: center;
+}
+
+.won{
+    color: rgb(118, 221, 125);
+    text-align: center;
+}
+
+.loss{
+    color: red;
+    text-align: center;
+}

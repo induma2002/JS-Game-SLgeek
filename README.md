@@ -28,7 +28,7 @@ This is a simple Blackjack game implemented using HTML, CSS, and JavaScript. The
 ## Installation
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/blackjack-game.git
+    git clone https://github.com/induma2002/blackjack-game.git
     ```
 2. Navigate to the project directory.
     ```bash
@@ -46,7 +46,8 @@ This is a simple Blackjack game implemented using HTML, CSS, and JavaScript. The
 ![Blackjack Game](images/screenshot.png)
 
 ## Credits
-This game was created by [Your Name].
+This game was created by Induma Wijesinghe.
+Special thanks to [SL Geek School](https://www.youtube.com/@SLGeekSchool) for their tutorials and support.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
